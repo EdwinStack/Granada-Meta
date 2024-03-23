@@ -1,0 +1,11 @@
+.BotonRojo{
+    background-color: aqua;
+    color: black;
+    font font-weight: 500;
+}
+
+.BotonAzul{
+    background-color: rgb(10, 148, 60);
+    color: black;
+    font font-weight: 500;
+}

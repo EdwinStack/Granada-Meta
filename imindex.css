@@ -5,9 +5,11 @@ img {
 
 #Lupa {
     width: 20px;
-
+    height: 20px;
 }
 
-.LupaClase {
-height: 20px;
+.contenedor{
+    display: flex;
+    align-items: baseline;
+    flex-wrap: nowrap;
 }
